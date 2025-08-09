@@ -53,7 +53,7 @@
 ---
 
 ### 🚀 Featured Projects
-Check out some of my featured projects on [My Portfolio](https://vincent-digitals.github.io/my-portfolio/).  
+Check out some of my featured projects on [My Portfolio](https://vincent-digitals.github.io/mainportfolio/).  
 Feel free to explore, contribute, or share your feedback!
 
 ---
