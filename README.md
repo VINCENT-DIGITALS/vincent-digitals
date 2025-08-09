@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Vincent Macayanan</h1>
-<h3 align="center">Aspiring Software Developer from the Philippines</h3>
+<h3 align="center">Aspiring Software Engineer from the Philippines</h3>
 
 <p align="center">
   🌟 Passionate about building efficient and user-friendly applications 🌟
@@ -8,7 +8,7 @@
 ---
 
 ### 🌱 About Me
-- 💻 I’m currently expanding my skills in **Laravel** and **React**.
+- 💻 I’m currently expanding my skills in **Laravel** and **ReactJS**.
 - 🚀 Check out my projects and portfolio at [My Portfolio](https://vincent-digitals.github.io/my-portfolio/).
 - 💬 I’m always open to discussing **Flutter** and app development.
 - 📧 Reach me at **mac.jvincent@gmail.com**.
