@@ -9,7 +9,7 @@
 
 ### 🌱 About Me
 - 💻 I’m currently expanding my skills in **Laravel** and **ReactJS**.
-- 🚀 Check out my projects and portfolio at [My Portfolio](https://vincent-digitals.github.io/my-portfolio/).
+- 🚀 Check out my projects and portfolio at [My Portfolio](https://vincent-digitals.github.io/mainportfolio/).
 - 💬 I’m always open to discussing **Flutter** and app development.
 - 📧 Reach me at **mac.jvincent@gmail.com**.
 
